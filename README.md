@@ -15,28 +15,27 @@
 ### 실행화면
 
 
-메인메뉴
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/5405c216-a913-4ab2-a53d-2b5ab80dec0f/2bddb761-2d49-41a1-8c54-901c9a63222a/image.png)
-
-
-
 오디션등록
-![image](https://github.com/user-attachments/assets/ae62b6ea-2ed2-4491-9c02-d73c64445e6b)
+![image](https://github.com/user-attachments/assets/659ab646-aa7a-4a85-acf5-b0316a2161f5)
+
 
 
 
 참가자목록
-![image](https://github.com/user-attachments/assets/be33fedb-c753-4c92-8773-a1f1f5a9f5d9)
+![image](https://github.com/user-attachments/assets/a82ef4b8-4695-40af-be2f-b8cc14298da8)
+
 
 
 
 멘토점수
-![image](https://github.com/user-attachments/assets/2a837c33-0858-45c0-8cee-a87549565dae)
+![image](https://github.com/user-attachments/assets/f35433a6-9e82-4609-8c14-16b29c305ea5)
+
 
 
 
 참가자등수
-![image](https://github.com/user-attachments/assets/c0ac5ceb-647e-4510-a957-295c6697c8a1)
+![image](https://github.com/user-attachments/assets/b411e146-5df0-48ab-b8b0-6ddabe5b665a)
+
 
 
 
