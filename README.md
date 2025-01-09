@@ -16,24 +16,31 @@
 
 
 오디션등록
+오디션을 보는 참가자의 정보를 입력하는 곳 입니다!
+
 ![image](https://github.com/user-attachments/assets/659ab646-aa7a-4a85-acf5-b0316a2161f5)
 
 
 
 
 참가자목록
+오디션등록 페이지에서 적은 참가자의 목록이 나오는 곳 입니다!
+
 ![image](https://github.com/user-attachments/assets/a82ef4b8-4695-40af-be2f-b8cc14298da8)
 
 
 
+멘토점수조회
+멘토들의 점수를 한눈에 보여주는 페이지 입니다!
 
-멘토점수
 ![image](https://github.com/user-attachments/assets/f35433a6-9e82-4609-8c14-16b29c305ea5)
 
 
 
 
 참가자등수
+참가자의 점수 등수를 보여주는 페이지 입니다!
+
 ![image](https://github.com/user-attachments/assets/b411e146-5df0-48ab-b8b0-6ddabe5b665a)
 
 
