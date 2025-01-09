@@ -16,7 +16,7 @@
 
 
 메인메뉴
-![image](https://github.com/user-attachments/assets/d69bcdc7-a874-4db9-9a0b-5ec997368568)
+![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/5405c216-a913-4ab2-a53d-2b5ab80dec0f/2bddb761-2d49-41a1-8c54-901c9a63222a/image.png)
 
 
 
